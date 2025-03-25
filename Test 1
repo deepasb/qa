@@ -1,4 +1,4 @@
-create  app/controllers/pages_controller.rb
+tedited create  app/controllers/pages_controller.rb
        route  get "pages/about"
        route  get "pages/home"
       invoke  erb
